@@ -1,0 +1,1 @@
+console.log("Menulis javascript di dalam website secara eksternal");
